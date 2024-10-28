@@ -1,0 +1,18 @@
+body{
+    height: 30rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ccc;
+}
+#clock{
+    font-size: 6rem;
+    font-weight: 2000;
+    padding: 25px 30px;
+    border: 5px solid #fff;
+    border-radius: 10px;
+    color: aqua;
+}
+.desc{
+    margin-top: 20px;
+}
